@@ -1,4 +1,3 @@
-
 import discord
 import aiosqlite
 import os
